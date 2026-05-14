@@ -16,15 +16,15 @@ with data saved to a file between sessions.
 
 1. Make sure Python 3 is installed
 2. Clone the repository:
-   git clone https://github.com/yourusername/contact-book-cli.git
+   git clone https://github.com/Elkanah490/contact-book-cli.git
 3. Navigate into the folder:
    cd contact-book-cli
 4. Run the program:
    python contacts.py
 
 
-   ## Usage
-
+## Usage
+'''
 ========== CONTACT BOOK ==========
 1. Add contact
 2. View all contacts
@@ -34,6 +34,8 @@ with data saved to a file between sessions.
 6. Exit
 ==================================
 Choose an option (1-6):
+'''
+
 
 ## What I learned
 - Structuring a Python program using functions
@@ -47,4 +49,4 @@ Choose an option (1-6):
 - No external libraries — standard library only
 
   ## Author
-Your Name — github.com/https://github.com/Elkanah490
+Elkanah — github.com/Elkanah490
